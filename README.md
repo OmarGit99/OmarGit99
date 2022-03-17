@@ -3,7 +3,7 @@
 <h3> Hi there I'm Omar 👋
 
 
-A CompSci and engineering student with an interest in Cyber Security, Android and Web Development.
+A CompSci student with an interest in Cyber Security, Android and Web Development.
 
 I like doing CTFs, Bug bounties, reading and writing in my spare time. 
 
